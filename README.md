@@ -1,6 +1,10 @@
 # 2D-Games-using-OpenGL-in-Python
 This repository contains multiple games of OpenGL that are built in Python, showcasing various graphical and interactive elements through OpenGL primitives and Python programming. Each game is designed to provide a unique interactive experience, focusing on user engagement and graphical representation.
 
+# Group Members
+Tasnia Jannat Ayesha
+Shihab Muhtasim
+
 ![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
 ![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
